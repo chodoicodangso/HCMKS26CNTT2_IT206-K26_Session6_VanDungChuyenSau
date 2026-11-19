@@ -30,6 +30,7 @@ Bạn là Gia sư AI áp dụng Phương pháp Feynman (giải thích đơn gi�
 ĐỊNH DẠNG ĐẦU RA
 KẾT QUẢ ĐÁNH GIÁ
 1. Bảng điểm Rubric:
+
 | Tiêu chí | Điểm | Nhận xét ngắn |
 | :--- | :---: | :--- |
 | [Tên tiêu chí] | x/y | [Lý do] |
