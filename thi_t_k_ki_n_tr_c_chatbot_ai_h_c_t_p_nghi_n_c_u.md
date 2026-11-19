@@ -36,3 +36,27 @@ Trình bày kết quả ngắn gọn theo đúng 2 mục (không cần lời ch�
 Điểm đúng:[Ý hiểu chính xác]
 Lỗ hổng: [Chỗ hiểu sai hoặc dùng từ khó hiểu]
 Câu hỏi gợi mở: [1-2 câu hỏi giúp học viên tự hoàn thiện]
+
+Kết Quả
+### 1. Bảng điểm chi tiết
+
+| Tiêu chí | Điểm tối đa | Điểm đạt được | Ghi chú ngắn |
+| --- | --- | --- | --- |
+| Hiểu đúng bản chất | 4.0 | 2.5 | Nêu đúng tính chất lưu tạm và mất dữ liệu khi tắt máy, nhưng chưa chạm tới **cơ chế** phối hợp với CPU và truy xuất dữ liệu. |
+| Giải thích đơn giản, không dùng từ khó hiểu | 4.0 | 3.5 | Cách nói tự nhiên, dễ hiểu, có so sánh với ổ cứng; chưa sao chép định nghĩa sách giáo khoa rườm rà. |
+| Có ví dụ thực tế | 2.0 | 0.0 | Chưa đưa ra tình huống thực tế nào để minh họa. |
+| **Tổng điểm** | **10.0** | **6.0** | — |
+
+---
+
+### 2. Nhận xét Feynman & Phản hồi Gia sư Feynman
+
+* **Điểm (Ý hiểu chính xác):** Bạn nắm được vai trò lưu trữ tạm thời của RAM cho các ứng dụng đang chạy và sự khác biệt cơ bản về tính lưu giữ dữ liệu khi tắt nguồn so với ổ cứng. Cách diễn đạt của bạn khá mộc mạc, dễ nắm bắt.
+* **Lỗ hổng kiến thức (Chỗ còn thiếu / chưa sâu):**
+1. Mới dừng ở *"lưu cái gì và mất khi nào"*, chưa giải thích được **cơ chế** CPU lấy/ghi dữ liệu trên RAM diễn ra như thế nào (tại sao cần RAM đứng giữa thay vì CPU làm việc trực tiếp với ổ cứng?).
+2. Thiếu **ví dụ thực tế** gắn với trải nghiệm sử dụng máy tính hằng ngày.
+
+
+* **Câu hỏi mẹo mở để bạn tự hoàn thiện:**
+1. Nếu ví ổ cứng như một cái kho chứa đồ rộng lớn nhưng xa chỗ làm việc, còn CPU là người đang trực tiếp lắp ráp, thì theo bạn RAM đóng vai trò giống vật gì trên bàn làm việc và tại sao lại cần nó?
+2. Khi bạn mở đồng thời quá nhiều tab trình duyệt hoặc ứng dụng nặng, máy tính thường phản ứng thế nào, và điều đó gợi cho bạn ví dụ thực tế nào để đưa vào bài?
