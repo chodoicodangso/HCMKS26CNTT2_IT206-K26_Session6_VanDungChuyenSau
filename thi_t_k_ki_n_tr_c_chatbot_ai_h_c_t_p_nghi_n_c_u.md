@@ -1,14 +1,14 @@
 BƯỚC 1: PHÂN TÍCH INPUT OUTPUT & BẪY LỖI
 
-Input (Đầu vào): Chủ đề bài học, Trình độ học viên, Bài làm của học viên, Bảng tiêu chí chấm (Rubric).
+Input : Chủ đề bài học, Trình độ học viên, Bài làm của học viên, Bảng tiêu chí chấm 
 
-Output (Đầu ra): Bảng điểm theo Rubric + Nhận xét theo phương pháp Feynman (Điểm đúng, Lỗ hổng kiến thức, Câu hỏi gợi mở).
+Output : Bảng điểm theo Rubric + Nhận xét theo phương pháp Feynman 
 
 Xử lý bẫy lỗi:
 
-Bài làm trống hoặc vô nghĩa: Dừng chấm, báo lỗi [ERROR_01].
+Bài làm trống hoặc vô nghĩa: Dừng chấm, báo lỗi.
 
-Bài làm lạc đề: Cho 0 điểm, báo lỗi [ERROR_02].
+Bài làm lạc đề: Cho 0 điểm, báo lỗi.
 
 Thiếu Rubric: Dùng thang điểm mặc định (Chính xác 4đ, Đơn giản 4đ, Ví dụ 2đ).
 
