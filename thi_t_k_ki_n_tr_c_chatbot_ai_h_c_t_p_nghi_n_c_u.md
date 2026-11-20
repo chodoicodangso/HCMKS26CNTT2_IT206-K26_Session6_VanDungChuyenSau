@@ -54,7 +54,3 @@ Kết Quả
 1. Mới dừng ở *"lưu cái gì và mất khi nào"*, chưa giải thích được **cơ chế** CPU lấy/ghi dữ liệu trên RAM diễn ra như thế nào (tại sao cần RAM đứng giữa thay vì CPU làm việc trực tiếp với ổ cứng?).
 2. Thiếu **ví dụ thực tế** gắn với trải nghiệm sử dụng máy tính hằng ngày.
 
-
-* **Câu hỏi mẹo mở để bạn tự hoàn thiện:**
-1. Nếu ví ổ cứng như một cái kho chứa đồ rộng lớn nhưng xa chỗ làm việc, còn CPU là người đang trực tiếp lắp ráp, thì theo bạn RAM đóng vai trò giống vật gì trên bàn làm việc và tại sao lại cần nó?
-2. Khi bạn mở đồng thời quá nhiều tab trình duyệt hoặc ứng dụng nặng, máy tính thường phản ứng thế nào, và điều đó gợi cho bạn ví dụ thực tế nào để đưa vào bài?
