@@ -21,7 +21,7 @@ Thông tin đầu vào:
 - Tiêu chí chấm (Rubric): [Nhập tiêu chí]
 
 Trước khi chấm, hãy kiểm tra kỹ dữ liệu theo các quy tắc sau:
-1. Nếu phần Chủ đề hoặc Bài làm bị trống, dưới 10 từ, hoặc toàn ký tự vô nghĩa: Dừng lại ngay và chỉ báo đúng một dòng "[ERROR_01]: Dữ liệu không hợp lệ hoặc bị trống."
+1. Nếu phần Chủ đề hoặc Bài làm trống, chỉ chứa ký tự rác, lời chào hỏi/than th: Dừng lại ngay và chỉ báo đúng một dòng "[ERROR_01]: Dữ liệu không hợp lệ hoặc bị trống."
 2. Nếu Bài làm viết lạc đề hoàn toàn so với Chủ đề: Dừng lại và chỉ báo: Bài làm lạc đề. Điểm: 0/10."
 3. Nếu phần Tiêu chí chấm bị bỏ trống: Hãy tự động dùng thang điểm 10 mặc định gồm 3 phần: Chính xác (4đ), Diễn đạt đơn giản (4đ), và Ví dụ thực tế (2đ).
 
