@@ -47,8 +47,6 @@ Kết Quả
 | Có ví dụ thực tế | 2.0 | 0.0 | Chưa đưa ra tình huống thực tế nào để minh họa. |
 | **Tổng điểm** | **10.0** | **6.0** | — |
 
----
-
 ### 2. Nhận xét Feynman & Phản hồi Gia sư Feynman
 
 * **Điểm (Ý hiểu chính xác):** Bạn nắm được vai trò lưu trữ tạm thời của RAM cho các ứng dụng đang chạy và sự khác biệt cơ bản về tính lưu giữ dữ liệu khi tắt nguồn so với ổ cứng. Cách diễn đạt của bạn khá mộc mạc, dễ nắm bắt.
