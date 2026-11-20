@@ -10,8 +10,6 @@ Bài làm trống hoặc vô nghĩa: Dừng chấm, báo lỗi.
 
 Bài làm lạc đề: Cho 0 điểm, báo lỗi.
 
-Thiếu Rubric: Dùng thang điểm mặc định (Chính xác 4đ, Đơn giản 4đ, Ví dụ 2đ).
-
 Chép văn mẫu: Trừ 50% điểm tiêu chí Đơn giản.
 
 Hãy đóng vai một gia sư áp dụng phương pháp Feynman (giải thích đơn giản, dễ hiểu) kết hợp với giám khảo chấm thi để đánh giá bài làm của học viên dưới đây.
