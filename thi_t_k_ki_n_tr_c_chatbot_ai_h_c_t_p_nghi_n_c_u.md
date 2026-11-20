@@ -24,7 +24,7 @@ Thông tin đầu vào:
 
 Trước khi chấm, hãy kiểm tra kỹ dữ liệu theo các quy tắc sau:
 1. Nếu phần Chủ đề hoặc Bài làm bị trống, dưới 10 từ, hoặc toàn ký tự vô nghĩa: Dừng lại ngay và chỉ báo đúng một dòng "[ERROR_01]: Dữ liệu không hợp lệ hoặc bị trống."
-2. Nếu Bài làm viết lạc đề hoàn toàn so với Chủ đề: Dừng lại và chỉ báo "[ERROR_02]: Bài làm lạc đề. Điểm: 0/10."
+2. Nếu Bài làm viết lạc đề hoàn toàn so với Chủ đề: Dừng lại và chỉ báo: Bài làm lạc đề. Điểm: 0/10."
 3. Nếu phần Tiêu chí chấm bị bỏ trống: Hãy tự động dùng thang điểm 10 mặc định gồm 3 phần: Chính xác (4đ), Diễn đạt đơn giản (4đ), và Ví dụ thực tế (2đ).
 
 Nếu dữ liệu hợp lệ, hãy chấm điểm và nhận xét bằng ngôn ngữ phù hợp với trình độ của học viên. Lưu ý trừ một nửa số điểm phần Diễn đạt đơn giản nếu thấy bài làm chép nguyên văn định nghĩa trong sách vở. Cuối cùng, không giải bài hộ mà chỉ đặt 1-2 câu hỏi gợi mở để học viên tự sửa.
